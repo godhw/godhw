@@ -1,4 +1,8 @@
-### Hi there 👋
+## HI
+
+### undergraduate student in computer science
+
+### Personal webpage: [https://godhw.github.io/](https://godhw.github.io/)
 
 <!--
 **godhw/godhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
